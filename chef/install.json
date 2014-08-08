@@ -1,0 +1,5 @@
+{
+  "run_list": [ "recipe[simple::giraph]", "recipe[simple::hadoop]", "recipe[simple::hbase]", 
+"recipe[simple::hive]", "recipe[simple::mahout]",  "recipe[simple::memcached]",  "recipe[simple::mongo]",  
+"recipe[simple::mysql]",  "recipe[simple::pig]", "recipe[simple::spark]"]
+}
