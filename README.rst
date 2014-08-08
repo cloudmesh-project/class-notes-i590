@@ -1,7 +1,7 @@
 bigdatastack
 ============
 
-* `Simple Chef Tutorial <https://github.com/cloudmesh/bigdatastack/blob/master/docs/Simplest%20Chef%20Tutorial.docx?raw=true`_
+* `Simple Chef Tutorial <https://github.com/cloudmesh/bigdatastack/blob/master/docs/Simplest%20Chef%20Tutorial.docx?raw=true>`_
 
 * https://github.com/cloudmesh/bigdatastack/blob/master/docs/survey_apache_big_data_stack.pdf?raw=true
 
